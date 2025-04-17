@@ -1,9 +1,8 @@
-# House-Price-Prediction
 # 🏠 Housing Price Prediction
 
 This project is a machine learning model built to predict housing prices based on various features using Python. It explores data preprocessing, visualization, model training, and evaluation.
 
-# About Dataset
+## About Dataset
 This dataset provides comprehensive information for house price prediction, with 13 column names:
 
 Price: The price of the house.
